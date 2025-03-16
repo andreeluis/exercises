@@ -58,7 +58,7 @@ This is a project to predict the survival of passengers on the Titanic. The data
 
 	**C** = Cherbourg, **Q** = Queenstown, **S** = Southampton
 
-> [!INFO]
+> [!NOTE]
 > For training the model, we discard the columns `PassengerId`, `Name`, `Ticket`, `Cabin` and `Embarked` as they are not useful for prediction.
 
 ## Usage
